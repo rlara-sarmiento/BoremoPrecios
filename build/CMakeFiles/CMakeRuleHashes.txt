@@ -1,0 +1,2 @@
+# Hashes of file build rules.
+997894363b5f7ba226cd44cf31986203 BoremoPrecios.moc

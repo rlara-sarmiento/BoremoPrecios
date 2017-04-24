@@ -1,0 +1,7 @@
+/home/rlara/projects/BoremoPrecios/build/CMakeFiles/install.dir
+/home/rlara/projects/BoremoPrecios/build/CMakeFiles/list_install_components.dir
+/home/rlara/projects/BoremoPrecios/build/CMakeFiles/rebuild_cache.dir
+/home/rlara/projects/BoremoPrecios/build/CMakeFiles/boremoprecios.dir
+/home/rlara/projects/BoremoPrecios/build/CMakeFiles/install/strip.dir
+/home/rlara/projects/BoremoPrecios/build/CMakeFiles/install/local.dir
+/home/rlara/projects/BoremoPrecios/build/CMakeFiles/edit_cache.dir

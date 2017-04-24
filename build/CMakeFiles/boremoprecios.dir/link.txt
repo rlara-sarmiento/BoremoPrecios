@@ -1,0 +1,1 @@
+/usr/bin/c++   -g   CMakeFiles/boremoprecios.dir/BoremoPrecios.cpp.o CMakeFiles/boremoprecios.dir/main.cpp.o  -o boremoprecios -rdynamic -lQtCore -lQtGui 
